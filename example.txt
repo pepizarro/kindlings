@@ -1,53 +1,96 @@
-Martin Kleppmann - Designing Data-Intensive Applications (Kleppmann, Martin)
-- La subrayado en la posición 287-287 | Añadido el martes, 19 de marzo de 2024 18:43:50
-
-the
-==========
-﻿Brandon Sanderson - Rhythm of War (Brandon Sanderson)
-- El marcador en la posición 23098 | Añadido el miércoles, 20 de marzo de 2024 15:17:31
-
-
-==========
-﻿Brandon Sanderson - Rhythm of War (Brandon Sanderson)
-- La nota en la posición 9 | Añadido el miércoles, 20 de marzo de 2024 15:19:17
-
-Potios
-==========
-﻿Brandon Sanderson - Rhythm of War (Brandon Sanderson)
-- La subrayado en la posición 9-9 | Añadido el miércoles, 20 de marzo de 2024 15:19:17
-
-bonus
-==========
-﻿Brandon Sanderson - Rhythm of War (Brandon Sanderson)
-- La subrayado en la posición 9-9 | Añadido el miércoles, 20 de marzo de 2024 15:19:44
-
-receive
-==========
-﻿Martin Kleppmann - Designing Data-Intensive Applications (Kleppmann, Martin)
-- La subrayado en la posición 619-620 | Añadido el domingo, 24 de marzo de 2024 17:17:42
-
-there is no such thing as a generic, one-size-fits-all scalable architecture (informally known as magic scaling sauce).
-==========
-﻿Martin Kleppmann - Designing Data-Intensive Applications (Kleppmann, Martin)
-- La subrayado en la posición 652-653 | Añadido el domingo, 24 de marzo de 2024 17:41:32
-
-“good operations can often work around the limitations of bad (or incomplete) software, but good software cannot run reliably with bad operations”
-==========
-﻿Martin Kleppmann - Designing Data-Intensive Applications (Kleppmann, Martin)
-- La subrayado en la posición 694-696 | Añadido el domingo, 24 de marzo de 2024 18:07:18
-
-define complexity as accidental if it is not inherent in the problem that the software solves (as seen by the users) but arises only from the implementation.
-==========
-﻿[The Witcher 1] Andrzej Sapkowski - The Last Wish (Andrzej Sapkowski)
-- La subrayado en la página 55 | posición 534-534 | Añadido el martes, 2 de abril de 2024 00:35:50
-
-Yennefer.
-==========
-﻿[The Witcher 1] Andrzej Sapkowski - The Last Wish (Andrzej Sapkowski)
-- La subrayado en la página 53 | posición 519-519 | Añadido el martes, 2 de abril de 2024 00:39:08
-
-why did you try to bite her to death? Eh? Geralt?'
-==========
-﻿[The Witcher 1] Andrzej Sapkowski - The Last Wish (Andrzej Sapkowski)
-- La subrayado en la página 58 | posición 568-569 | Añadido el martes, 2 de abril de 2024 00:45:39
-
+Martin Kleppmann - Designing Data-Intensive Applications (Kleppmann, Martin)
+
+- La subrayado en la posición 287-287 | Añadido el martes, 19 de marzo de 2024 18:43:50
+
+
+
+the
+
+==========
+
+﻿Brandon Sanderson - Rhythm of War (Brandon Sanderson)
+
+- El marcador en la posición 23098 | Añadido el miércoles, 20 de marzo de 2024 15:17:31
+
+
+
+
+
+==========
+
+﻿Brandon Sanderson - Rhythm of War (Brandon Sanderson)
+
+- La subrayado en la posición 9-9 | Añadido el miércoles, 20 de marzo de 2024 15:19:17
+
+
+
+bonus
+
+==========
+
+﻿Brandon Sanderson - Rhythm of War (Brandon Sanderson)
+
+- La subrayado en la posición 9-9 | Añadido el miércoles, 20 de marzo de 2024 15:19:44
+
+
+
+receive
+
+==========
+
+﻿Martin Kleppmann - Designing Data-Intensive Applications (Kleppmann, Martin)
+
+- La subrayado en la posición 619-620 | Añadido el domingo, 24 de marzo de 2024 17:17:42
+
+
+
+there is no such thing as a generic, one-size-fits-all scalable architecture (informally known as magic scaling sauce).
+
+==========
+
+﻿Martin Kleppmann - Designing Data-Intensive Applications (Kleppmann, Martin)
+
+- La subrayado en la posición 652-653 | Añadido el domingo, 24 de marzo de 2024 17:41:32
+
+
+
+“good operations can often work around the limitations of bad (or incomplete) software, but good software cannot run reliably with bad operations”
+
+==========
+
+﻿Martin Kleppmann - Designing Data-Intensive Applications (Kleppmann, Martin)
+
+- La subrayado en la posición 694-696 | Añadido el domingo, 24 de marzo de 2024 18:07:18
+
+
+
+define complexity as accidental if it is not inherent in the problem that the software solves (as seen by the users) but arises only from the implementation.
+
+==========
+
+﻿[The Witcher 1] Andrzej Sapkowski - The Last Wish (Andrzej Sapkowski)
+
+- La subrayado en la página 55 | posición 534-534 | Añadido el martes, 2 de abril de 2024 00:35:50
+
+
+
+Yennefer.
+
+==========
+
+﻿[The Witcher 1] Andrzej Sapkowski - The Last Wish (Andrzej Sapkowski)
+
+- La subrayado en la página 53 | posición 519-519 | Añadido el martes, 2 de abril de 2024 00:39:08
+
+
+
+why did you try to bite her to death? Eh? Geralt?'
+
+==========
+
+﻿[The Witcher 1] Andrzej Sapkowski - The Last Wish (Andrzej Sapkowski)
+
+- La subrayado en la página 58 | posición 568-569 | Añadido el martes, 2 de abril de 2024 00:45:39
+
+
+
