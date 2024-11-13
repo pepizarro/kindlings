@@ -12,10 +12,7 @@ func Write(target string, clippings map[string][]*Clipping) error {
 	}
 
 	for book, clips := range clippings {
-		// fmt.Println("target: ", target)
-		// fmt.Println("book: ", book)
 		path := fmt.Sprintf("%s/%s", target, book)
-		fmt.Println("\npath: \n", path)
 
 		if _, err := os.Stat(path); os.IsNotExist(err) {
 			err := os.Mkdir(path, 0755)
@@ -51,8 +48,6 @@ func Write(target string, clippings map[string][]*Clipping) error {
 			}
 			defer file.Close()
 
-			// sleep 10 ms
-			fmt.Println("clipType: ", clipType)
 			for _, line := range lines {
 				_, err = file.WriteString(line)
 				if err != nil {

@@ -103,17 +103,17 @@ func (p *Parser) Parse() error {
 	return nil
 }
 
-func (p *Parser) Print() {
-	for book, clippings := range p.Clippings {
-		fmt.Println(book)
-		fmt.Println("clip count:", len(clippings))
-		// for _, clip := range clippings {
-		// 	fmt.Printf("Type: %v\n", clip.clippingType)
-		// 	fmt.Printf("Content: %v\n", clip.content)
-		// 	fmt.Println()
-		// }
-	}
-}
+// func (p *Parser) Print() {
+// 	for book, clippings := range p.Clippings {
+// 		fmt.Println(book)
+// 		fmt.Println("clip count:", len(clippings))
+// 		// for _, clip := range clippings {
+// 		// 	fmt.Printf("Type: %v\n", clip.clippingType)
+// 		// 	fmt.Printf("Content: %v\n", clip.content)
+// 		// 	fmt.Println()
+// 		// }
+// 	}
+// }
 
 func (p *Parser) getPositions(str string) (int, int, error) {
 

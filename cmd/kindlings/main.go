@@ -27,9 +27,6 @@ func main() {
 		os.Exit(2)
 	}
 
-	fmt.Println("Source:", *source)
-	fmt.Println("Target:", *target)
-
 	parser := NewParser(*source, *target)
 	if err := parser.Parse(); err != nil {
 		fmt.Println("Error parsing clippings:", err)
