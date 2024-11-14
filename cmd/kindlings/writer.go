@@ -29,7 +29,6 @@ func Write(target string, clippings map[string][]*Clipping) error {
 
 			switch clip.clippingType {
 			case Note:
-				// Ensure that we're appending correctly
 				files[Note] = append(files[Note], line)
 			case Highlight:
 				files[Highlight] = append(files[Highlight], line)
